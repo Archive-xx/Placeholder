@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sexmod",
+  "name": "Sex Mod",
+  "description": "",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SchnurriTV"],
+  "credits": "LizzyWaffler for the Voice Acting [https://twitter.com/LizzyWaffler]",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
