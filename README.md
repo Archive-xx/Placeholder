@@ -26,9 +26,9 @@ I make good stuffs
    
 Again, I did not make this mod and I take no credit as doing so would be shitty, but do stick around if you want to see cool stuff on my github acc.   
  
-
-
-
-
+  
+   
+[![GitHub All Releases](https://img.shields.io/github/downloads/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/total.svg)](https://github.com/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/releases)    
+    
 # Get the jar [here](https://github.com/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/releases/tag/1.0.0), and make sure to also get the gecko lib jar or the mod wont launch
 
