@@ -11,7 +11,9 @@ There is some suspicous Onion link domains linking to a php of some sort, Maybe 
 I have not edited this in any way and only decompiled it and put it on github cause bored    
 
 Idk how I got 18 stars over night after 19 days? someone make an issue and tell me how you found this rep lol (please do as i am confused)    
-
+   
+Join my discord server https://discord.gg/E6zYK6Re5F     
+  
 I take no credit for any of this, But if you stick around, I make minecraft cheats and modifications, I make deleters for crappy minecraft cheats (Sigma moment)            
             
 Popular stuffs by me             
