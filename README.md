@@ -4,6 +4,7 @@ A working fucking minecraft sex mod which includes actual intercourse (Not made 
 
 
 
+
 I did NOT make this mod, it was made by the horny german 1337 protagonist haxor Schnurri   
 
 There is some suspicous Onion link domains linking to a php of some sort, Maybe to get text for the characters? or an elaborate backdoor by Schnurri?!?1 (probably text getter)      
@@ -28,9 +29,10 @@ I make good stuffs
    
 Again, I did not make this mod and I take no credit as doing so would be shitty, but do stick around and follow if you want to see cool stuff on my github acc.   
  
-  
+ ***New sex mod update in releases tab or press "here" button under this***
+ 
    
 [![GitHub All Releases](https://img.shields.io/github/downloads/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/total.svg)](https://github.com/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/releases)    
     
-# Get the jar [here](https://github.com/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/releases/tag/1.0.0), and make sure to also get the gecko lib jar or the mod wont launch
+# Get the mod [here](https://github.com/Napoleon-ZoomberParts/Minecraft-Sex-Mod-Jenny-1.12.2-Forge/releases/tag/1.0.0), and make sure to also get the gecko lib jar or the mod wont launch
 
