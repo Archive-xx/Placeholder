@@ -2,8 +2,6 @@
 A working fucking minecraft sex mod which includes actual intercourse (Not made by me, made by https://twitter.com/schnurri_tv?lang=en) (Feel free to contribute)
 
 
-# Salutations travelers, we have noticed this mod had a hidden onion link, its not a virus its actually a mystery link that is designed to be solved like Cicada 3301 except for a block game sex mod, JOIN AND HELP OUT, We need brains, riddle solvers etc you dont have to be good at it just join https://discord.gg/RyJZEFcBaC
-
 
 I did NOT make this mod, it was made by the horny german 1337 protagonist haxor Schnurri   
 
